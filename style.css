@@ -1,0 +1,14 @@
+html {
+    background-color: black;
+    text-align: center;
+    color: rgb(243, 237, 237);
+}
+.test{
+    width: 100%;
+    text-align:  center;
+    }
+    .spisok {
+    display: inline-block}
+    li{
+    text-align: left;
+    }
